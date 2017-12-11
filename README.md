@@ -27,3 +27,4 @@ Design Patterns done in a Pragmatic way!
 #### Structural Patterns - Deals with Relations between Objects
 
 #### Behavioral Patterns - Deals with Object Interaction and Responsibility
+- [Strategy](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-design-patterns/blob/master/behavioral/strategy.ipynb)
