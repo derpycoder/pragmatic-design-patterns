@@ -20,6 +20,8 @@ Design Patterns done in a Pragmatic way!
 - I - Interface Segregation - Many specific interface better than one do-it-all interface
 - D - Dependency Inversion - We should program towards interface not implementation
 
+- [Interface](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-design-patterns/blob/master/oop/interface.ipynb)
+
 #### Creational Patterns - Deals with Object Creation
 
 #### Structural Patterns - Deals with Relations between Objects
