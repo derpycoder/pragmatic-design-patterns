@@ -28,4 +28,4 @@ Design Patterns done in a Pragmatic way!
 
 #### Behavioral Patterns - Deals with Object Interaction and Responsibility
 - [Strategy](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-design-patterns/blob/master/behavioral/strategy.ipynb)
-- [Observer](- [Strategy](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-design-patterns/blob/master/behavioral/observer.ipynb))
+- [Observer](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-design-patterns/blob/master/behavioral/observer.ipynb)
