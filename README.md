@@ -23,6 +23,7 @@
 - [Interface](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-design-patterns/blob/master/oop/interface.ipynb)
 
 #### Creational Patterns - Deals with Object Creation
+- [Singleton](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-design-patterns/blob/master/creational/singleton.ipynb)
 
 #### Structural Patterns - Deals with Relations between Objects
 
