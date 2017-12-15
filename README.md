@@ -24,6 +24,7 @@
 
 #### Creational Patterns - Deals with Object Creation
 - [Singleton](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-design-patterns/blob/master/creational/singleton.ipynb)
+- [Builder](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-design-patterns/blob/master/creational/builder.ipynb)
 
 #### Structural Patterns - Deals with Relations between Objects
 
