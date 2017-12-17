@@ -21,6 +21,7 @@
 - D - Dependency Inversion - We should program towards interface not implementation
 
 - [Interface](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-design-patterns/blob/master/oop/interface.ipynb)
+- Null Pattern - Consider using the null pattern wherever possible, like in following cheatsheets
 
 #### Creational Patterns - Deals with Object Creation
 - [Singleton](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-design-patterns/blob/master/creational/singleton.ipynb)
