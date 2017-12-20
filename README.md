@@ -30,6 +30,7 @@
 - [Abstract Factory](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-design-patterns/blob/master/creational/abstract-factory.ipynb)
 
 #### Structural Patterns - Deals with Relations between Objects
+- [Adapter](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-design-patterns/blob/master/structural/adapter.ipynb)  
 
 #### Behavioral Patterns - Deals with Object Interaction and Responsibility
 - [Strategy](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-design-patterns/blob/master/behavioral/strategy.ipynb)
