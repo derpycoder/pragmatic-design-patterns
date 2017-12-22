@@ -38,3 +38,4 @@
 - [Observer](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-design-patterns/blob/master/behavioral/observer.ipynb)
 - [Command](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-design-patterns/blob/master/behavioral/command.ipynb)
 - [Template](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-design-patterns/blob/master/behavioral/template.ipynb)
+- [Iterator](https://nbviewer.jupyter.org/github/abhijit-kar/pragmatic-design-patterns/blob/master/behavioral/iterator.ipynb)
